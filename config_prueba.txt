@@ -4,6 +4,6 @@
 Servidor: ssh NovaRetail host
 IP: x.x.x.x
 Usuario: deployer
-Clave temporal: RaizVerde2024!
+
 
 Campaña activa: Cosecha Silenciosa
